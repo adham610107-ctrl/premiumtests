@@ -1,0 +1,2002 @@
+[
+  {
+    "q": "Subdominanta sekstakkordi belgisini toping?",
+    "options": [
+      "S6",
+      "D6",
+      "II6",
+      "D7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ladning beshinchi pogonasi?",
+    "options": [
+      "dominanta",
+      "Tonika",
+      "Medianta",
+      "subdominanta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchtovushlikning pastdan uchinchi tovushi nomini belgilang?",
+    "options": [
+      "Kvinta",
+      "Prima",
+      "Tertsiya",
+      "Septima"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kich.3+kat.3 qanday uchtovushlikni tashkil qiladi?",
+    "options": [
+      "Minor",
+      "Major",
+      "Kamaytirilgan",
+      "Orttirilgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Subdominanta uchtovushligi ladning nechanchi pog‘onasidan tuziladi?",
+    "options": [
+      "IV",
+      "III",
+      "II",
+      "IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonika sekstakkordi qaysi pog‘onadan tuziladi?",
+    "options": [
+      "III",
+      "I",
+      "VI",
+      "II"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominanta uchtovushligi ladning nechanchi pog‘onasidan tuziladi?",
+    "options": [
+      "V",
+      "II",
+      "III",
+      "VII"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonika sekstakkordining belgilanishini ko‘rsating?",
+    "options": [
+      "T6",
+      "S6",
+      "=\nD6",
+      "SII6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchtovushlik nechta aylanmaga ega?",
+    "options": [
+      "2 ta",
+      "1ta",
+      "3ta",
+      "4ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchtovushlikning nechta turi bor?",
+    "options": [
+      "4 ta",
+      "1ta",
+      "2ta",
+      "3ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ort.2, kam7, kam.4, ort.5 qanday intervallar hisoblanadi?",
+    "options": [
+      "Xarakterli",
+      "Diatonik",
+      "Tarkibli",
+      "Engarmonik teng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1,5 tonli intervalni ko‘rsating.",
+    "options": [
+      "kichik tertsiya",
+      "kichik sekunda",
+      "katta septima",
+      "orttirilgan kvarta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "kat.3+kich.3 qanday uchtovushlikni tashkil qiladi?",
+    "options": [
+      "Major",
+      "Minor",
+      "orttirilgan",
+      "kamaytirilgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sekstakkordlarning bas ovozida akkordning qaysi tovushi joylashadi?",
+    "options": [
+      "Tertsiya",
+      "prima",
+      "sekunda",
+      "Kvinta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kvartsekstakkordlar qaysi tovushdan boshlab tuziladi?",
+    "options": [
+      "Kvinta",
+      "Prima",
+      "tertsiya",
+      "Sekunda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Davriya nima?",
+    "options": [
+      "Shakl",
+      "pauza",
+      "nota",
+      "Akkord"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Davriyalardagi jumlalarning chegarasini ko‘rsatuvchi belgi nima deb ataladi?",
+    "options": [
+      "Sezura",
+      "ovoz yo‘nalishi",
+      "akkord joylashuvi",
+      "kadentsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dinamikaning asosiy turlari?",
+    "options": [
+      "F, ff, p, pp, mp, mf",
+      "Diez, bekar, bemol",
+      "Vokaliz",
+      "Solfedjiolash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asosiy uchtovushliklar qatorini ko‘rsating?",
+    "options": [
+      "D, S, T",
+      "T, VII, II",
+      "T, S, III",
+      "VII, III, D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchtovushlikning asosiy tovushini ko‘rsating?",
+    "options": [
+      "Prima",
+      "tertsiya",
+      "sekunda",
+      "septima"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Intervallarning son miqdori nima?",
+    "options": [
+      "Tovushlar orasidagi masofa",
+      "Tovushlar orasidagi pogʻonalar soni",
+      "Tovushlarning balandligi",
+      "Tovushlarning davomiyligi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Turg‘un pog‘onalar qatorini ko‘rsating?",
+    "options": [
+      "I, III, V",
+      "II, III, IV",
+      "I, VI, VII",
+      "I, II, IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uch tovushdan iborat akkord nima deb ataladi?",
+    "options": [
+      "Uchtovushlik",
+      "nonakkord",
+      "septakkord",
+      "interval"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Polifoniya qaysi kompozitorni ijodida juda rivojlanadi?",
+    "options": [
+      "I.S. Bax va G.F. Gendel’ ijodida",
+      "F. List va Grig ijodida",
+      "P.I. CHaykovskiy va I. Glinka ijodida",
+      "V.A. Motsart va Gaydn ijodida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Grave nima?",
+    "options": [
+      "Sekin, tantanavor",
+      "Cholg‘uchi",
+      "Musiqa asarini juda sekin ijro etilishi",
+      "Musiqaning drama asari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Garmoniya nima?",
+    "options": [
+      "Akkordlar haqidagi fan",
+      "Sonata",
+      "Syuita",
+      "Etyud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Melodik interval qanday hosil bo‘ladi?",
+    "options": [
+      "Bir vaqtda eshitilgan tovushlar",
+      "Ketma-ket eshitilgan tovushlar",
+      "O‘zaro teng masofada joylashgan tovushlar",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sof intervalni belgilang.",
+    "options": [
+      "Sekunda",
+      "Kvinta",
+      "Septima",
+      "tertsiya"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Glissando nima?",
+    "options": [
+      "Bir tovushdan ikkinchi tovushga sirpanib o‘tish",
+      "Qochirim",
+      "Tovushni tremolo qilib chalish",
+      "Tovushni noxun zarbisiz sadolantirish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Intonatsiya?",
+    "options": [
+      "Aniq, sof kuylash",
+      "Asarning mazmunini yoritish",
+      "Vokalizatsiya",
+      "Solfedjio kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kantilena?",
+    "options": [
+      "Legatoga asoslangan kuychan ijro",
+      "Ariya",
+      "Ariozo",
+      "A’kapella"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Belkanto?",
+    "options": [
+      "Virtuoz vokal ijro",
+      "improvizatsiya",
+      "Texnik vosita",
+      "Ovoz mexanizmi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Legato?",
+    "options": [
+      "Ulab, bog‘lab",
+      "G‘amgin kuylash",
+      "Cho‘zib kuylash",
+      "Ravon kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Presto nima?",
+    "options": [
+      "Eng tez temp",
+      "Fortepianochi",
+      "Musiqa asarini juda sekin ijro etilishi",
+      "Sokin temp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Epizod nima?",
+    "options": [
+      "Rondoning oraliq qismi",
+      "Rondoning birinchi qismi",
+      "Sonata shaklida asosiy partiya",
+      "Sonata shaklida qo‘shimcha partiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sezura nima?",
+    "options": [
+      "Musiqiy asarni bo‘limlarga ajratuvchi belgi",
+      "dinamik belgi",
+      "qisqartirish belgilari",
+      "sur’at"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Polimetriya so‘zining ma’nosi - bu…?",
+    "options": [
+      "Musiqa asarining bir vaqtning o‘zida yoki izchillikda har xil o‘lchovlarda yangrashi",
+      "templarni aniq belgilash va o‘lchash uchun qo‘llanadigan maxsus asbob",
+      "Bir taktning o‘zida kuchli va kuchsiz hissalarning bir-biriga qo‘shilib",
+      "tabiiy major va tabiiy minorning to‘rtinchi pog‘onasidan tuzilgan akkord"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alteratsiya belgisi nima?",
+    "options": [
+      "Tovush balandligini o‘zgartiruvchi belgi",
+      "asar tonalligini o‘zgartiruvchi",
+      "asar tezligini o‘zgartiruvchi",
+      "asar xarakterini o‘zgartiruvchi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tessitura nima?",
+    "options": [
+      "cholg‘u yoki ovoz diapazonning bir qismi",
+      "dinamik belgi",
+      "musiqiy janr",
+      "sur’at"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "3\\8 o‘lchovi qaysi guruhga kiradi?",
+    "options": [
+      "Oddiy o’lchovlar",
+      "Murakkab",
+      "o’zgaruvchan",
+      "aralash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqadagi o‘lchov va temp orasidagi farq nima?",
+    "options": [
+      "O‘lchov musiqa asarining harakatlanishini belgilaydi, temp esa uni ijro etish tezligini",
+      "O‘lchov musiqa asarining tezligini belgilaydi, tempo esa harakatlanishini",
+      "O‘lchov faqat notalarning bo‘linishiga tegishli, tempo esa akkordlarning tuzilishiga",
+      "Ikkalasi ham bir xil tushunchadir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ritm so‘zining ma’nosini toping?",
+    "options": [
+      "Yunoncha so‘zdan olingan bo‘lib, «Oqim\" ma’nosini anglatadi",
+      "lotincha so‘zdan olingan bo‘lib, «Oraliq»",
+      "yunoncha so‘zdan olingan bo‘lib, «Ohangdoshlar»",
+      "lotincha so‘zdan olingan bo‘lib, «Qattiq»"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D-DUR da IV bosqichni aniqlang?",
+    "options": [
+      "Sol",
+      "lya",
+      "si",
+      "do"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Allargando (allergando) qanday ijro etish ko‘rsatmasi?",
+    "options": [
+      "Kengaytirib, vazminlashtirib",
+      "Jonli, sho‘x",
+      "Tezroq",
+      "Sekinroq"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Turli balandlikdagi uch va undan ortiq tovushlarning qo‘shilib, yaxlit holda yangrashi nima deb nomlanadi?",
+    "options": [
+      "Akkord",
+      "Oktava",
+      "Prima",
+      "Akkordeon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko‘p ovozli musiqa turi nima deb nomlanadi?",
+    "options": [
+      "Polifoniya",
+      "Sonata",
+      "Syuita",
+      "Etyud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uch notadan tuzilgan maxsus ritmik shakl qanday nomlanadi?",
+    "options": [
+      "Triol",
+      "Duol",
+      "Trio",
+      "Trel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Operaning boshlanishi oldidan ijro etiluvchi cholg‘u p’esasi?",
+    "options": [
+      "Uvertyura",
+      "Libretto",
+      "Polifoniya",
+      "Ariya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Stakkato?",
+    "options": [
+      "Yengil, uzib-uzib ijro",
+      "Tez kuylash",
+      "Erkin kuylash",
+      "Sekin kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dissonans?",
+    "options": [
+      "Bir – biriga mos kelmaydigan hamohanglik",
+      "Uyg‘unlik",
+      "Tinchlik",
+      "Ifodalilik vositasi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aksent nima?",
+    "options": [
+      "Birinchi hissadagi urg‘uli ijro nuqtasi",
+      "Zarbli nuqtadan keyingi ijro nuqtasi",
+      "Oxirgi hissasiga",
+      "O‘rtadagi hissasiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aksentsiz?",
+    "options": [
+      "Aksentdan keyingi ijro nuqtasi",
+      "Birinchi hissadagi ijro nuqtasi",
+      "Oxirgi hissasiga",
+      "O‘rtadagi hissasiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orttirilgan intervallar qanday intervallardan hosil bo‘ladi?",
+    "options": [
+      "Sof va katta intervallardan",
+      "Kichik va sof intervallardan",
+      "Katta va kichik intervallardan",
+      "Sof va kichik intervallardan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Allegro?",
+    "options": [
+      "Tez, jonli.",
+      "Shoshmasdan, tekis",
+      "Juda tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sof ohangning buzilishi?",
+    "options": [
+      "Detonatsiya",
+      "Zo‘riqib kuylash",
+      "Tovush kengayishi",
+      "Tovush kuchayishi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Adajio?",
+    "options": [
+      "vazmin temp",
+      "Juda tez",
+      "Sokin",
+      "Juda sekin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Largo?",
+    "options": [
+      "keng, cho’zib",
+      "o’rtacha temp",
+      "Juda tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Andante?",
+    "options": [
+      "o’rtacha temp",
+      "Juda tez",
+      "Sokin",
+      "Tez"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Variatsiya deb nimaga aytiladi?",
+    "options": [
+      "Mavzuning o‘zgargan holda ijro etilishiga.",
+      "Mavzu bayoni",
+      "Koda.",
+      "Repriza"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Necha taktli davriyalar normal toifaga kiritiladi?",
+    "options": [
+      "8-16 taktli",
+      "12 taktli",
+      "14 taktli",
+      "10 taktli."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kanon nima?",
+    "options": [
+      "Bir kuy  bir necha ovozda oldinma-ketin qaytariladigan ko‘p ovozli musiqa",
+      "Unison kuylash",
+      "Duet bo‘lib kuylash",
+      "Solist ijrosi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akkolada nima?",
+    "options": [
+      "Ikki yoki undan ko’p nota yo‘lidagi ijroni ko’rsatuvchi qavs",
+      "Bir nota yo‘lidagi qavs",
+      "Ovoz yoki cholg‘ularning serohang kuyi",
+      "Musiqa asari bayoni va rivojida eng baland nuqta (kul’minatsiya)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Konsert so‘zining ma’nosi?",
+    "options": [
+      "Musobaqalashmoq",
+      "Aytishuv",
+      "Raqsga tushish",
+      "Diklomatsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Moderato qanday ijro?",
+    "options": [
+      "O‘rtacha",
+      "Sekin",
+      "Mayin",
+      "Shoshmasdan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vertikal garmoniya nima?",
+    "options": [
+      "Akkordlar hamohangligi",
+      "Intervallar xamohangligi",
+      "Talaffuz birligi",
+      "Stakkato va non legato"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominanta sekstakkordi qanday belgilanadi?",
+    "options": [
+      "D6",
+      "T6",
+      "S6",
+      "VI6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominanta sekstakkordi ladning qaysi pog‘onasidan tuziladi?",
+    "options": [
+      "VII",
+      "V",
+      "II",
+      "IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Septakkord nechta tovushdan iborat?",
+    "options": [
+      "4ta",
+      "1ta",
+      "2ta",
+      "3ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamaytirilgan intervallar qaysi intervallardan hosil bo‘ladi?",
+    "options": [
+      "Sof va katta intervallardan",
+      "Sof va kichik intervallardan",
+      "Katta va kichik intervallardan",
+      "Sof va orttirilgan intervallardan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tembr deb?",
+    "options": [
+      "tovushning sifat xususiyati, uning rang-barangligiga aytiladi",
+      "tovushning balandligiga aytiladi",
+      "tovushning kattaligiga aytiladi",
+      "tovushning pastligiga aytiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tovush ma’nolari qaysi bandda to‘g‘ri berilgan?",
+    "options": [
+      "Musiqaning ifoda kuchiga ega eng kichik tarkibiy qismi",
+      "fizik holatdagi tovush",
+      "sezgi orqali idrok etiladigan tovush",
+      "musiqiy tovush"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sonata shakli kimning ijodida o’z cho’qqisiga yetgan?",
+    "options": [
+      "L. Betxoven",
+      "M. Glinka",
+      "P. I. Chaykovskiy",
+      "A. Varlamov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera qachon va qayerda paydo bo‘lgan?",
+    "options": [
+      "16 asr, Italiya",
+      "19 asr, Frantsiya",
+      "15 asr, Germaniya",
+      "15 asr, AQSH"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Simfoniya janri qachon paydo bo‘lgan?",
+    "options": [
+      "18 asr",
+      "19 asr",
+      "21 asr",
+      "17 asr"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sol major tonalligida necha alteratsiya belgilari bor?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Re major tonalligida necha alteratsiya belgilari bor?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Har xil oddiy o‘lchovlarning qo‘shilishi natijasida hosil bo‘ladigan o‘lchovlar - bu?",
+    "options": [
+      "Aralash o‘lchov",
+      "Murakkab o‘lchov",
+      "O‘zgaruvchan o‘lchov",
+      "Oddiy o‘lchov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fa major tonalligida necha alteratsiya belgilari bor?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asosiy uchtovushliklarning noto’g‘ri izchiligini ko‘rsating?",
+    "options": [
+      "S–D–S–T",
+      "Т–S–D–T",
+      "T–D–T–S",
+      "D–T–S–Т"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akkordning mеlodik holatini ko‘rsatadigan ovoz – bu?",
+    "options": [
+      "Soprano",
+      "Bas",
+      "Alt",
+      "Tеnor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kadеnsiyada kuchli hissaga olinadigan akkordni ko‘rsating?",
+    "options": [
+      "К6/4.",
+      "S6/4",
+      "Т6/4",
+      "D6/4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S ning prima tovushi ladning nеchanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "IV pog‘onа",
+      "I pog‘ona",
+      "VI pog‘ona",
+      "II pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D ning prima tovushi ladning nеchanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "V pog‘ona",
+      "I pog‘ona",
+      "II pog‘ona",
+      "IV pog‘onа"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ladning IV pog‘onasinima deb ataladi?",
+    "options": [
+      "Subdominanta",
+      "tonika",
+      "dominantadominanta",
+      "medianta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonallik deb nimaga aytiladi?",
+    "options": [
+      "ladning balandligi",
+      "tovushning balandligi",
+      "Akkord balandligi",
+      "Uchtovushlik balandligi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nomdosh tonalliklarni ko‘rsating?",
+    "options": [
+      "G dur-g moll",
+      "E dur-h moll",
+      "a-moll-Ddur",
+      "H dur-f moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Parallel tonalliklarni ko‘rsating?",
+    "options": [
+      "G dur-e moll",
+      "D dur- a moll",
+      "H dur-f moll",
+      "B dur-b moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Parallel tonalliklarni ko‘rsating?",
+    "options": [
+      "D dur- h moll",
+      "H dur-g moll",
+      "A dur-a moll",
+      "F dur-g moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sof oktava belgilanishini ko‘rsating?",
+    "options": [
+      "s8",
+      "s1",
+      "s5",
+      "s4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sekunda nechta pog‘onadan iborat?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Seksta nechta pog‘onadan iborat?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nona nechta pog‘onadan iborat?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sof prima belgilanishini ko‘rsating?",
+    "options": [
+      "s.1",
+      "s.5",
+      "s.4",
+      "s.8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orttirilgan sekunda belgilanishini ko‘rsating?",
+    "options": [
+      "Ort.2",
+      "kam.7",
+      "kam.5",
+      "ort.4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Engarmonik teng tonalliklarni ko‘rsating?",
+    "options": [
+      "Des dur - Cis dur",
+      "B dur - f moll",
+      "a moll - A dur",
+      "D dur - H dur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Engarmonik teng tonalliklarni ko‘rsating?",
+    "options": [
+      "es moll – dis moll",
+      "As dur – сes moll",
+      "сes moll - Ais dur",
+      "C dur - G dur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uch diyezli major tonallikni ko‘rsating?",
+    "options": [
+      "A dur",
+      "Н dur",
+      "D dur",
+      "C dur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Besh diyezli minor tonallikni ko‘rsating?",
+    "options": [
+      "gis moll",
+      "d moll",
+      "cis moll",
+      "b moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Parallel tonalliklarni ko‘rsating?",
+    "options": [
+      "Es dur- c moll",
+      "A dur- a moll",
+      "A dur- b moll",
+      "E dur- h moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nomdosh tonalliklarni ko‘rsating?",
+    "options": [
+      "Ais dur- ais moll",
+      "D dur-a moll",
+      "H dur-f moll",
+      "B dur-g moll"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Garmonik majorda qaysi pog‘ona o‘zgaradi?",
+    "options": [
+      "VI pog‘ona yarim tonga pasayadi",
+      "V pog‘ona yarim tonga pasayadi",
+      "III pog‘ona yarim tonga pasayadi",
+      "I pog‘ona yarim tonga ko‘tariladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi ladda IV pog‘ona yarim tonga ko‘tariladi?",
+    "options": [
+      "lidiy",
+      "miksolidiy",
+      "doriy",
+      "frigiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi ladda VI pog‘ona yarim tonga ko‘tariladi?",
+    "options": [
+      "doriy",
+      "miksolidiy",
+      "lidiy",
+      "frigiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi ladda II pog‘ona yarim tonga pasaygan?",
+    "options": [
+      "frigiy",
+      "miksolidiy",
+      "lidiy",
+      "doriy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi ladda VII pog‘ona yarim tonga pasaygan?",
+    "options": [
+      "miksolidiy",
+      "lidiy",
+      "doriy",
+      "frigiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tarkibli intervallar qanday hosil bo‘ladi?",
+    "options": [
+      "Bir oktava chegarasida tuzilgan intervallardan",
+      "Oddiy intervallarga oktava qo‘shish orqali",
+      "Intervallarning aylanishi orqali",
+      "Xromatik intervallar orqali"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tovush holatini aniqlang?",
+    "options": [
+      "Fizik - sezgi",
+      "Baland - past",
+      "Jarangli - yoqimli",
+      "To‘lqinli - tekis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchtovushlik nima?",
+    "options": [
+      "Uch tovushdan iborat tertsiya bo‘yicha joylashgan akkord",
+      "Akkord",
+      "Interval",
+      "To‘rt ovozli akkord"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Major uchtovushligi nima?",
+    "options": [
+      "Katta uchtovushlik",
+      "Kichik uchtovushlik",
+      "Minor uchtovushligi",
+      "Kamaytirilgan uchtovushlik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Major sekstakkordining tarkibi?",
+    "options": [
+      "Kichik 3 + sof 4.",
+      "Katta 3 + sof 4.",
+      "Sof 4 + kichik 3.",
+      "Sof 3 + sof 4."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Minor sekstakkordining tarkibi?",
+    "options": [
+      "Katta 3 + sof 4.",
+      "Sof 4 + kichik 3.",
+      "Sof 4 + katta 3.",
+      "Kichik 3 + sof 4."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pentatonika nechta pog‘onadan tuziladi?",
+    "options": [
+      "Besh pog‘onadan.",
+      "Yetti pog‘onadan",
+      "Olti pog‘onadan",
+      "Sakkiz pog‘onadan."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Transpozitsiya nimani bildiradi?",
+    "options": [
+      "Kuyning bir tonallikdan boshqa tonallikka ko‘chirilishi.",
+      "Skripka kalitining teskari yozilishi.",
+      "Kuyning bir tonallikdan boshqa tonallikka o‘tib tamomlanishi.",
+      "Kuyning bir tonallikdan boshqa tonallikka o’tishi va yana birinchi tanallikka qaytishi."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kuyning eng yuqori nuqtasi nima deb ataladi?",
+    "options": [
+      "Kul’minatsiya.",
+      "Kadentsiya.",
+      "Sekventsiya.",
+      "Transpozitsiya."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kuy qanday tarkiblarga bo‘linadi?",
+    "options": [
+      "Tuzilma, sezura, davriya, jumla, kadentsiya, ibora, motiv.",
+      "Davriya, mativ, tuzilma.",
+      "Sezura, jumla, ibora.",
+      "Kadentsiya, tuzilma, davriya."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Modulyatsiya deb nimaga aytiladi?",
+    "options": [
+      "Asar qismining biror yangi tonallikka o‘tishi va shu tonallikda tugashi.",
+      "Transpozitsiyaga.",
+      "Asarning yangi tonallikka o‘tishi va yana dastlabki tonallikka qaytishiga.",
+      "Og‘ishmaga."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kadentsiya nima?",
+    "options": [
+      "Biror musiqa tizimini tugallovchi va musiqaviy fikr bayoni tamomlovchi \ngarmonik davra.",
+      "Davriya.",
+      "Sezura.",
+      "Jumla."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Jumla nimani bildiradi?",
+    "options": [
+      "Davriya shaklining tarkibiy qismi.",
+      "Kuy.",
+      "Kadensiya.",
+      "Sezura."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dinamik belgilar nimani bildiradi?",
+    "options": [
+      "Musiqa tovushning eshitilish darajasi",
+      "Tovush tezligi",
+      "Kuyning rivojlanishi.",
+      "tovush cho’zimi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fortissimo ff dinamik belgisi qanday ijro etiladi?",
+    "options": [
+      "Juda kuchli.",
+      "O‘rtacha kuchli.",
+      "Juda past.",
+      "Kuchli."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pianissimo pp qanday ijro etiladi?",
+    "options": [
+      "Juda past.",
+      "O‘rtacha past.",
+      "Past ijro.",
+      "O‘rtacha kuchli."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kreshchendo belgisi nima?",
+    "options": [
+      "Tovushning kuchayib borish belgisi.",
+      "Tina boshlash.",
+      "Pasaya borish belgisi.",
+      "Pasaytirish belgisi."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Diminuendo belgisi nima?",
+    "options": [
+      "Tovushning eshitilishini pasaya borishi belgisi.",
+      "Kuchayish belgisi",
+      "Sekin asta tugab borish.",
+      "Qattiq ijro belgisi."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sfortsando (sf) belgisi nima?",
+    "options": [
+      "Tovush eshitilishi keskin balang.",
+      "Yana kuchli.",
+      "Baland ijro.",
+      "Sal kuchli."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa bezaklari nima?",
+    "options": [
+      "Kuyning ayrim tovushlarini bezatuvchi ohanglar",
+      "Nota.",
+      "Ritm.",
+      "O‘lchov."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alt ovoz shtillari qaysi tomonga qarab chiziladi?",
+    "options": [
+      "Pastga",
+      "Yuqoriga",
+      "O‘ng tomonga",
+      "Chap tomonga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa bezaklarining qaysi shakllari qo‘llaniladi?",
+    "options": [
+      "Forshlag, mordent, gruppetto, trel’.",
+      "Diminuendo, kreshchendo.",
+      "Diez, bemol, bekar.",
+      "Forte, piano, pianissimo."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Legato uslubining gammasi qanday ijro etiladi?",
+    "options": [
+      "Tovushlarni bir-biriga bog‘langan holda",
+      "Tovushlarni qisqa ijro etish.",
+      "Tovushlarni sirg‘anish holda ijro etish.",
+      "Tovushlarni alohida-alohida ijro etish."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Stakkato uslubining ijro etilishi?",
+    "options": [
+      "Tovushlarni qisqa-qisqa, chertib-chertib ijro etilishi.",
+      "Tovushlarni bir-biriga bog‘lagan holda ijro etish.",
+      "Tovushlarni cho‘zib ijro etish.",
+      "Tovushlarni sirg‘anish orqali ijro etish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Koda nimani bildiradi?",
+    "options": [
+      "Asarning umumiy yakuni.",
+      "Asarning o‘rta qismi.",
+      "Asarni boshlang‘ich qismi.",
+      "Asarning o‘rta qismi."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Major so‘zining ma’nosi?",
+    "options": [
+      "Katta",
+      "Orttirilgan.",
+      "Kichikroq.",
+      "Akkord."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Refren nima?",
+    "options": [
+      "Rondoning birinchi qismi",
+      "Rondoning ikkinchi qismi",
+      "Rondoning uchinchi qismi",
+      "Sonata shaklida asosiy partiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamaytirilgan uchtovushlik qaysi intervalardan tashkil topadi?",
+    "options": [
+      "kich3+kich.3",
+      "kat.3+kat.3",
+      "sof 5 +kich.2",
+      "kat.3+kich.3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orttirilgan uchtovushlik qaysi intervalardan tashkil topadi?",
+    "options": [
+      "Kat.3+kat.3",
+      "kich3+kich.3",
+      "sof 5 +kich.2",
+      "kat.3+kich.3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "kam.7 qaysi intervalga yechiladi?",
+    "options": [
+      "sof 5",
+      "sof 4",
+      "kat.6",
+      "kich.3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ort.2 qaysi intervalga yechiladi?",
+    "options": [
+      "sof 4",
+      "sof 5",
+      "kat.6",
+      "kich.3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“fiz – as” intervalni aniqlang?",
+    "options": [
+      "kam.3",
+      "kich.3",
+      "sof 4",
+      "kat.2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“dis – fis” intervalni aniqlang?",
+    "options": [
+      "kich.3",
+      "kat.3",
+      "ort.2",
+      "kam.4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“fes – с” intervalni aniqlang?",
+    "options": [
+      "ort.5",
+      "sof 5",
+      "kat.6",
+      "kich.7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“as – b” intervalni aniqlang?",
+    "options": [
+      "kat.2",
+      "kam.3",
+      "sof 1",
+      "ort.1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vivace tempi qanday ijro etiladi?",
+    "options": [
+      "juda tez",
+      "jonli",
+      "keng",
+      "sekin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Basso ostinato atamasi nimani anglatadi?",
+    "options": [
+      "Basda melodik oborotning to‘xtovsiz ravishda takrorlanishi.",
+      "Sonata shakli.",
+      "Variasiya.",
+      "Repriza."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Allegro tempi qanday ijro etiladi?",
+    "options": [
+      "kuy tezligi tez",
+      "tezlashtirib",
+      "og‘ir",
+      "o‘rtacha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Allegretto tempi qanday ijro etiladi?",
+    "options": [
+      "kuy tezligi  jonli",
+      "keng",
+      "sekin",
+      "juda tez"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Konsonans (ohangdosh) intervallari qanday tavsiflanadi?",
+    "options": [
+      "Kichik va keskin tovushlarga ega",
+      "Uyg‘unlashgan va yoqimli tovushlarga ega",
+      "Qattiq va g‘alati tovushlarga ega",
+      "Xushmuomala tovushlarga ega"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Intervallarning aylanishi natijasida orttirilgan intervallar qaysi intervallarga aylanadi?",
+    "options": [
+      "Kamaytirilgan intervallarga",
+      "Sof intervallarga",
+      "Kichik intervallarga",
+      "Katta intervallarga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Oltita chorak qaysi bitta cho’zimga tеng keladi?",
+    "options": [
+      "nuqtali butun notaga",
+      "nuqtali yarimtalik",
+      "yarimtalik",
+      "butun"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To’rtta nimchorak qaysi bitta cho’zimga tеng keladi?",
+    "options": [
+      "yarimtalikka teng",
+      "chorak",
+      "nimchorak",
+      "o‘n oltitalik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Oberton” nimani anglatadi?",
+    "options": [
+      "yuqori ton",
+      "butun ton",
+      "yarim ton",
+      "chorak ton"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vazmin (og‘ir) tеmpni aniqlang?",
+    "options": [
+      "Largo, lento",
+      "presto",
+      "andantino",
+      "vivace"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Garmonik minor ladida qaysi pog‘ona o‘zgaradi?",
+    "options": [
+      "VII pog‘ona yarim tonga ko‘tariladi",
+      "V pog‘ona bir tonga pasayadi",
+      "III pog‘ona yarim tonga pasayadi",
+      "I pog‘ona yarim tonga ko‘tariladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi akkord kadanskvartsekstakkord (K6/4 ) dan oldin qo‘llanilmaydi?",
+    "options": [
+      "D",
+      "T",
+      "S",
+      "II6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akordning to‘rt ovozli bayonida asosiy uchtovushlikning qaysi tovushi juftlanadi?",
+    "options": [
+      "prima",
+      "sekunda",
+      "tersiya",
+      "kvinta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asosiy uchtovushlikning to‘rtovozli bayonida asosiy uchtovushlikning qaysi tovushi bas ovoziga joylashadi?",
+    "options": [
+      "prima",
+      "sekunda",
+      "tersiya",
+      "kvinta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dissonans (noohangdosh) intervallari qanday tavsiflanadi?",
+    "options": [
+      "Yoqimli eshitilgan va uyg‘un tovushlar",
+      "Bir-biriga uyg‘unlashmaagan, keskin yangrovchi tovushlar hamohangligi",
+      "Keng va yumshoq tovushlar",
+      "Barcha javoblar noto‘g‘ri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Akkordning zich joylashuviga xos intervallarni ko‘rsating?",
+    "options": [
+      "Unisondan kvartagacha",
+      "Kvintadan oktavagacha",
+      "Tertsiyadan sekstagacha",
+      "Primadan oktavagacha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tarkibli intervallni ko‘rsating.",
+    "options": [
+      "Kvinta",
+      "Nona",
+      "Seksta",
+      "Oktava"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Akkorddagi bas va tenor ovozlari oralig‘ini ko‘rsating?",
+    "options": [
+      "Unisondan ikki oktavagacha oralig‘i",
+      "Primadan sekstagacha",
+      "Tertsiya, kavartagacha",
+      "Kvintadan undetsimagacha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yetakchi septakkordlar qanday tonalliklarda tuziladi?",
+    "options": [
+      "Tabiiy major va minor tonalliklarda",
+      "Faqat garmonik major tonalliklarda",
+      "Faqat tabiiy major tonalliklarda",
+      "Faqat garmonik minor tonalliklarda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ovozlar kesishuvi yuz bergan holatni belgilang?",
+    "options": [
+      "Bas tenordan yuqoriroq joylashagan bo‘ladi",
+      "Soprano altdan yuqori joylashgan bo‘ladi",
+      "Tenor altdan pastroq joylashgan bo‘ladi",
+      "Alt sopranodan pastroq joylashgan bo‘ladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Septakkord nima?",
+    "options": [
+      "Uch tovushli akkord",
+      "To‘rt tovushli akkord",
+      "Beshtovushli akkord",
+      "Ikki tovushli akkord"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Takt oldidan boshlangan kuyning birinchi tovushi odatda qaysi funktsiyaga tegishli bo‘ladi?",
+    "options": [
+      "D",
+      "K6/4",
+      "T",
+      "S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S va D uchtovushliklari to‘g‘ri qo‘shilgan yo‘lini ko‘rsating?",
+    "options": [
+      "Bas ovozi sekundaga yuqoriga, qolgan ovozlar pastga",
+      "Bas va tenor yuqoriga, alt va soprano pastga harakatlanadi",
+      "Bas o‘z o‘rnida qoladi, qolgan ovozlar harakatlanadi",
+      "Barcha ovozlar bir tomonga yo‘naladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominantseptakkordning tuzilishi?",
+    "options": [
+      "Katta tertsiya + kichik tertsiya + kichik tertsiya",
+      "Kichik tertsiya + katta tertsiya + katta tertsiya",
+      "Kichik tertsiya + katta tertsiya + kichik tertsiya",
+      "Kichik tertsiya + kichik tertsiya + kichik tertsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sezura belgisi nimani ko‘rsatib turadi?",
+    "options": [
+      "Jumlalarning chegarasini",
+      "Kadentsiyaning boshlanishini",
+      "Kadans kvartsekstakkor dining kilishini",
+      "Iboralarning yaxlitligini"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Davriyani tashkil etadigan yirik va teng hajmli tuzilmalar nima deb aytiladi?",
+    "options": [
+      "Jumla",
+      "Ibora",
+      "Motiv",
+      "Kadentsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Operada uvertyuralar qay shaklda yoziladi?",
+    "options": [
+      "Sonata shakli",
+      "Rondo",
+      "Fuga",
+      "Kanon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kadensiyada kuchli hissaga olinadigan akkordni ko‘rsating?",
+    "options": [
+      "K6/4.",
+      "S6/4",
+      "T6/4.",
+      "D6/4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi akkordda kvinta tovushi juftlanadi?",
+    "options": [
+      "K6/4",
+      "T",
+      "D",
+      "S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominantseptakkord qanday aylanmalarga ega?",
+    "options": [
+      "Tertsiya va kvinta aylanmalari",
+      "Kvintsekstakkord, tertskvartakkord va sekundakkord",
+      "Tertsiya va sekunda aylanmalari",
+      "Kvinta va septima aylanmalari"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "SII7 septakkordining interval tuzilishi qanday?",
+    "options": [
+      "Kichik tertsiya, katta tertsiya, kichik tertsiya",
+      "Kichik tertsiya, katta tertsiya, katta tertsiya",
+      "Kichik tertsiya, kichik tertsiya, katta tertsiya",
+      "Kichik tertsiya, katta kvinta, kichik sekunda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akkordning o‘zgargan holda takrorlanishi nima deyiladi?",
+    "options": [
+      "O‘rin almashuvi deb ataladi",
+      "Akkorddagi juftlanish",
+      "kvintalarga sakrash",
+      "Ovoz kesishuvi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dominantseptakkord qanday tonikaga yechiladi?",
+    "options": [
+      "Kvinta orqali",
+      "Sekundakkord orqali",
+      "Kvintasiz primasi uchlangan tonika uchtovushligiga",
+      "Kvartalik tonika uchtovushligiga"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "O‘rta kadensiyaning garmonik davrasini ko‘rsating?",
+    "options": [
+      "K6/4-D",
+      "K6/4-D-T.",
+      "D- K6/4-T.",
+      "T-S-K6/4."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqiy fikr qaysi shaklda bayon etiladi?",
+    "options": [
+      "Davriya",
+      "ibora",
+      "jumla",
+      "kadentsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Garmonik minordagi D uchtovushligining qaysi tovushi yarim tonga ko‘tariladi?",
+    "options": [
+      "Tertsiya tovushi",
+      "kvinta",
+      "prima",
+      "oktava"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S ning prima tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "IV pog‘ona",
+      "I pog‘ona",
+      "VI pog‘ona",
+      "II pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S ning tertsiya tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "VI pog‘ona",
+      "I pog‘ona",
+      "II pog‘ona",
+      "IV pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S ning kvinta tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "I pog‘ona",
+      "X pog‘ona",
+      "II pog‘ona",
+      "IV pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D ning prima tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "V pog‘ona",
+      "I pog‘ona",
+      "II pog‘ona",
+      "IV pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D ning kvinta tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "II pog‘ona",
+      "I pog‘ona",
+      "X pog‘ona",
+      "IV pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D ning tertsiya tovushi ladning nechanchi pog‘onasi bo‘ladi?",
+    "options": [
+      "VII pog‘ona",
+      "IV pog‘ona",
+      "I pog‘ona",
+      "II pog‘ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yakunlovchi ohangga ega garmonik davraga nima deyiladi?",
+    "options": [
+      "Kadensiya",
+      "Sekvensiya",
+      "Modulyatsiya",
+      "Intonatsiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akkordlarning to‘g‘ri ketma- ketligini ko‘rsating?",
+    "options": [
+      "T – S – K6/4 – D",
+      "T – D – K6/4 – S",
+      "S – K6/4 – S – T",
+      "K6/4 – D – S – T"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi ovozda sakramalardan ko‘prok foydalanishi mumkin?",
+    "options": [
+      "Soprano",
+      "Bas",
+      "Alt",
+      "Tenor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xotima kadensiyani tashkil etadigan garmonik davrani ko‘rsating?",
+    "options": [
+      "S - K6/4 - D – T",
+      "T - T – S",
+      "T - D - S – T",
+      "D - T – D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To‘liq davrani aniqlang?",
+    "options": [
+      "S - D – T",
+      "S - T – S",
+      "D - T – D",
+      "T - T – S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Avtentik davrani aniqlang?",
+    "options": [
+      "D - T – D",
+      "S - D – T",
+      "S - T – T",
+      "S - T – S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Plagal davrani aniqlang?",
+    "options": [
+      "S - T – S",
+      "S - D – T",
+      "D - T – D",
+      "T - S – D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "S - D - T garmonik funksional xususiyati jihatidan davra nima deb ataladi?",
+    "options": [
+      "To‘liq davra",
+      "Plagal davra",
+      "Bo‘lingan davra",
+      "Avtentik davra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D -T garmonik davra funksional xususiyati jihatidan nima deb ataladi?",
+    "options": [
+      "Avtentik davra",
+      "To‘liq davra",
+      "Plagal davra",
+      "Bo’lingan davra."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Subdominanta (S) ning  kvintasi ladning nechanchi pag‘onasi?",
+    "options": [
+      "I",
+      "II",
+      "VII",
+      "V"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ovozning sakrasimon harakatiga qaysi interval xos emas?",
+    "options": [
+      "Tertsiya",
+      "Kvarta",
+      "Oktava",
+      "Seksta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamaytirilgan septakkord qanday tuziladi?",
+    "options": [
+      "Kichik tertsiya, kichik tertsiya, kichik tertsiya",
+      "Kamaytirilgan uchtovushlik va majorli septimadan",
+      "Minorli uchtovushlik va katta septimadan",
+      "Majorli uchtovushlik va minorli septimadan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ikki ovozning parallel harakatini ko‘rsating?",
+    "options": [
+      "Ikki ovozning bir tomonga bir xil intervalga yo‘nalishi",
+      "Ikki ovozning qarama-qarshi tomonlarga yo‘nalishi",
+      "Ikki ovozdan bittasi o‘z o‘rnida qoladi, ikkinchisi harakatlanadi",
+      "Ikki ovozning bir tomonga bir xil intervalga yo‘nalishi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ikki ovozning qiya harakatini ko‘rsating?",
+    "options": [
+      "Ikki ovozdan bittasi o‘z o‘rnida qoladi, ikkinchisi harakatlanadi",
+      "Ikki ovozning bir tomonga yo‘nalishi",
+      "Ikki ovozning qarama-qarshi tomonlarga yo‘nalishi",
+      "Ikki ovozning bir tomonga bir xil intervalga yo‘nalishi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonalliklarni aniqlashning birinchi usuli?",
+    "options": [
+      "Kalit belgilari orqali",
+      "Faqat musiqaning tugash tovushi orqali",
+      "Tovushlar miqdorini hisoblash orqali",
+      "Birinchi akkordni tahlil qilish orqali"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xromatizm nima?",
+    "options": [
+      "Diatonik tovushlar orasidagi kichik o‘zgarishlar",
+      "Tovushlarning toniga mos kelishi",
+      "Yarim tonlar orqali tovushlar to‘ldirilish",
+      "Bir tonlar orqali  to‘ldirish"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Biror musiqiy tuzilmani yakunlaydigan garmonik davra nima deb ataladi?",
+    "options": [
+      "Kadentsiya",
+      "Jumla.",
+      "Davriya.",
+      "Sezura."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xotima kadensiyaning garmonik davrasini ko‘rsating?",
+    "options": [
+      "K6/4-D-T.",
+      "D-T-S.",
+      "K6/4-D.",
+      "T-S-K6/4."
+    ],
+    "answer": 0
+  }
+]

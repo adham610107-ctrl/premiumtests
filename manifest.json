@@ -1,0 +1,21 @@
+{
+  "name": "PRO EXAM v8.0 Ultimate",
+  "short_name": "PRO EXAM",
+  "description": "Talabalar uchun aqlli va professional tayyorgarlik tizimi",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F4F5F0",
+  "theme_color": "#007AFF",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,1977 @@
+[
+  {
+    "q": "Skripka kaliti qaysi tovush balandligini ko‘rsatadi?",
+    "options": [
+      "sol",
+      "Fa",
+      "Lya",
+      "Si"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kompozitor M.Ashrafiy va mashxur rus kompozitori S.N.Vasilenko nechanchi yil «Buron» operasini yozgan?",
+    "options": [
+      "1939 yil",
+      "1941 yi",
+      "1937 yil",
+      "1936 yi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Chap qo’l barmoqlarining rubob pardalariga bosilish xolatini nima deymiz? Rubobda nechta pozitsiya bor?",
+    "options": [
+      "Pozitsiya",
+      "O’ng qo`lda rubobni mediator bilan chalish",
+      "barmoq bilan boshlab chalish",
+      "barmoq bilan bosib chalish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fermata qayerda ishlatiladi?",
+    "options": [
+      "Fermata (notaning ostiga yoki ustiga)",
+      "Glissando",
+      "Aktsent",
+      "Notani oldiga qo’yiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi pog‘ona uchtovushligi qanday nomlanadi ?",
+    "options": [
+      "tonika",
+      "Subdominanta",
+      "Median",
+      "Dominant"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Takomillashtirish ishlariga kim boshchilik qildi?",
+    "options": [
+      "Ashot Petrosyans",
+      "Baxtiyor Yo‘ldoshev",
+      "To‘xtasin Jalilov",
+      "Muxtor Ashrafiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nog‘ora cholg‘usi qaysi cholg‘ular guruhiga kiradi?",
+    "options": [
+      "“Urma zarbli cholg‘ular”guruhi",
+      "“Kamonli cholg‘ular” guruhi",
+      "“Mezrobli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Doira cholg‘usi qaysi cholg‘ular guruhiga kiradi ?",
+    "options": [
+      "“Urma zarbli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular”guruhi",
+      "“Kamonli cholg‘ular” guruhi",
+      "“Mezrobli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "G‘ijjak bas cholg‘usi qaysi cholg‘ular guruhiga kiradi ?",
+    "options": [
+      "“Kamonli cholg‘ular” guruhi",
+      "“Urma zarbli cholg‘ular” guruhi",
+      "“Muzrobli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Changning tovushqatori qanday ataladi?",
+    "options": [
+      "xromatik",
+      "Diatonik",
+      "Lidiy",
+      "Fridiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Afg‘on rubobi cholg‘usi qaysi cholg‘ular guruhiga kiradi?",
+    "options": [
+      "“Muzrobli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi",
+      "“Puflama cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qashqar rubobi cholg‘usi qaysi cholg‘ular guruhiga kiradi ?",
+    "options": [
+      "Muzrobli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi",
+      "“Puflama cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Prima rubobi cholg‘usi qaysi cholg‘ular guruhiga kiradi ?",
+    "options": [
+      "“Muzrobli cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi",
+      "“Puflama cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Chang cholg‘usi qaysi cholg‘ular guruhiga kiradi?",
+    "options": [
+      "“Urma torli cholg‘ular” guruhi",
+      "“Puflama cholg‘ular” guruhi",
+      "“Muzrobli cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Surnay cholg‘usi qaysi cholg‘ular guruhiga kiradi ?",
+    "options": [
+      "“Puflama cholg‘ular” guruhi",
+      "“Muzrobli cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Surnay cholg‘usining diapozoni?",
+    "options": [
+      "birinchi oktava “re” tovushidan uchinchi oktava “re” tovushigacha",
+      "birinchi oktava “re” tovushidan uchinchi oktava “fa” tovushigacha",
+      "kichik oktava “re” tovushidan ikkinchi oktava “re” tovushigacha",
+      "birinchi oktava “re” tovushidan ikkinchi oktava “do” tovushigacha."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nay cholg‘usi qaysi cholg‘ular guruhiga kiradi?",
+    "options": [
+      "“Puflama cholg‘ular” guruhi",
+      "“Urma torli cholg‘ular” guruhi",
+      "“Urma zarbli cholg‘ular” guruhi",
+      "“Kamonli cholg‘ular” guruhi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "G‘ijjak bas cholg‘usining torlari qaysi interval oralig‘ida sozlanadi?",
+    "options": [
+      "sof kvinta",
+      "Tersiya",
+      "sof  kvarta",
+      "Sekunda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To‘rtinchi pog‘onada tuzilgan akkord qanday ataladi?",
+    "options": [
+      "subdominanta",
+      "Tonika",
+      "Dominant",
+      "Medianta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tanbur so‘zi qaysi tilga mansub?",
+    "options": [
+      "Fors",
+      "Arab",
+      "O‘zbek",
+      "Yunon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Akkord nima?",
+    "options": [
+      "3 va undan ortiq tersiya intervali bo‘ylab joylashgan tovushlar uyg‘unligi",
+      "2 tovush uyg‘unligi",
+      "ketma-ket tovushlar yig‘indisi",
+      "2 tovush oralig‘i"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tovush balandligini 1 ton ko‘taruvchi belgini aniqlang ?",
+    "options": [
+      "dubel diez",
+      "Bekar",
+      "Bemol",
+      "Diyez"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tovush balandligini yarim ton pasaytiruvchi belgini aniqlang?",
+    "options": [
+      "bemol",
+      "Bekar",
+      "Diyez",
+      "dubl- bemol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Interval nechta tovushdan tuziladi?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Intervallar necha xil bo’ladi?",
+    "options": [
+      "8",
+      "4",
+      "7",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi qatorda oddiy o’lchovlar kiritilgan?",
+    "options": [
+      "2\\4",
+      "6\\4",
+      "5\\4",
+      "3\\8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Har xil oddiy o’lchovlarning qo’shilishi natijasida hosil bo’ladigan o’lchovlar – bu…?",
+    "options": [
+      "Aralash o’lchov",
+      "Murakkab o’lchov",
+      "Oddiy o’lchov",
+      "O’zgaruvchan o’lchov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mi major gammasida nechta alteratsiya belgilari bor?",
+    "options": [
+      "4",
+      "3",
+      "3",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pauza deb nimaga aytiladi?",
+    "options": [
+      "Musiqada vaqtincha to’xtalishga",
+      "Asosiy pog’onalarning ko’tarilishi yoki pasayishiga",
+      "Musiqa tovushlarining qattiq - sekin ijro etilishiga",
+      "Temperatsiyalangan tovush qatori"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uch tonlikni aniqlang?",
+    "options": [
+      "ort 4 kam 5",
+      "kat 3 kich 3",
+      "sof 1 sof  8",
+      "kat 2 kich 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D-DUR da IV bosqichni aniqlang?",
+    "options": [
+      "Sol",
+      "Lya",
+      "Fa",
+      "Mi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orttirilgan kvarta necha tondan iborat?",
+    "options": [
+      "3",
+      "2,5",
+      "2",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Damli cholg‘ularga qaysilar kiradi?",
+    "options": [
+      "nay, sunray",
+      "rubob, nay",
+      "doira, tanbur",
+      "nay tanbur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Urma torli cholg‘ularga qaysilar kiradi?",
+    "options": [
+      "chang, qonun",
+      "chang, rubob",
+      "doira, tanbur",
+      "rubob chang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamonli cholg'ularga qaysilar kiradi?",
+    "options": [
+      "G‘ijjak",
+      "Afg‘on rubobi",
+      "Rubob",
+      "Doira"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Diyez nima vazifani bajaradi?",
+    "options": [
+      "Tovushni yarim tonga ko’taradi",
+      "Tovushni yarim tonga pasaytiradi",
+      "Avvalgi belgilarni bekor qiladi",
+      "Barcha javoblar to'g'ri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xar bir oktava nechta yarim tonlarga bo’linadi?",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Forte”ning ma’nosi nima?",
+    "options": [
+      "Kuchli",
+      "Past",
+      "Kuychang",
+      "Sekin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Piano”ning ma’nosi nima?",
+    "options": [
+      "Past",
+      "Kuchli",
+      "Kuychang",
+      "Sekin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi opera Chaykovskiniki?",
+    "options": [
+      "Pikovaya dama",
+      "Traviata",
+      "Boris Godunov",
+      "Knyaz Igor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamonni sochi nimadan qilinadi?",
+    "options": [
+      "Otni sochidan",
+      "Ipdan",
+      "Arqondan",
+      "Odam sochidan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Grif bilan podgrifni orasida nima bir?",
+    "options": [
+      "Podstavka",
+      "Sim",
+      "Quloq",
+      "Xech narsa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kontrabasni quloqlari kiradigan qismini ayting?",
+    "options": [
+      "Bosh",
+      "Tomoq",
+      "Bo’yni",
+      "Beli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mozartni otasi taniqli ustoz bo’lgan….?",
+    "options": [
+      "Skripkadan",
+      "Violoncheldan",
+      "Altdan",
+      "Gitaradan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kuyni qayta ishlash musiqiy tilda nima deyiladi?",
+    "options": [
+      "Aranjirovka",
+      "Mоdulyatsiya",
+      "Transpоzitsiya",
+      "Vоlta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Musiqa» so’zining  lug’aviy ma’nosini aniqlng?",
+    "options": [
+      "Kuy, ohang",
+      "Tovush",
+      "Ashula",
+      "O’rin, joy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera qayerda paydo bo‘lgan?",
+    "options": [
+      "Italiya",
+      "Angliya",
+      "Rossiya",
+      "Fransiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ovozlarning asosiy nechta turi farqlanadi?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Erkaklarda eng past ovoz nima deyiladi?",
+    "options": [
+      "Bas",
+      "Tenor",
+      "Alt",
+      "Soprano"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera nechanchi asrda  paydo bo`lgan?",
+    "options": [
+      "XVI",
+      "X",
+      "XX",
+      "XVII"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Qor qiz» operasini kim yozgan?",
+    "options": [
+      "R.Korsakov",
+      "Bochelli",
+      "Verdi",
+      "Motsart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera nechanchi asrda paydo bo’lgan?",
+    "options": [
+      "XVI-asr oxirida Italiyada",
+      "XV-asr Rimda",
+      "XVIII-asr Frantsiyada",
+      "XVII-Vena"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi o’zbek operasi nechanchi yilda yaratilgan va nomi nima?",
+    "options": [
+      "1939 yil, «Bo’ron»",
+      "1941 yil, «Tohir va Zuhra»",
+      "1940 yil,«Zaynab va Omon»",
+      "1939 yil"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aralash xor qaysi partiyalardan tashkil topadi?",
+    "options": [
+      "Soprano, alt, tenor, bas",
+      "Soprano, alt, tenor",
+      "Soproano diskant, tenor, bas",
+      "Tenor, bas"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mutatsiya nima?",
+    "options": [
+      "Mustaqil ovoz tembriga o’tish jarayoni",
+      "O’g’il bolalar ovozining o’zgarishi",
+      "Ovozning vaqtinchalik hastaligi",
+      "Bolalar ovozining o’zgarishi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’zbekiston Respublikasi Davlat madhiyasi musiqasining muallifi kim?",
+    "options": [
+      "M.Burxanov",
+      "Sh.Yormatov",
+      "A.Aripov",
+      "N.Norxo’jayev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Ivan Susanin», «Ruslan va Lyudmila» operalari muallifi kim?",
+    "options": [
+      "Glinka",
+      "Mostart",
+      "Chaykovskiy",
+      "Betxoven"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Karmen» operasini kim yozgan?",
+    "options": [
+      "J.Bize",
+      "Verdi",
+      "Mostart",
+      "R.Korsakov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "kich.3+kat.3 qanday uchtovushlikni tashkil qiladi?",
+    "options": [
+      "Minor",
+      "Major",
+      "Kamaytirilgan",
+      "Orttirilgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonika sekstakkordi qaysi pog‘onadan tuziladi?",
+    "options": [
+      "III",
+      "IV",
+      "V",
+      "VI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tonika sekstakkordining belgilanishini ko‘rsating?",
+    "options": [
+      "T6",
+      "S6",
+      "D6",
+      "II6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1,5 tonli intervalni ko’rsating?",
+    "options": [
+      "kichik tertsiya",
+      "kichik sekunda",
+      "katta septima",
+      "orttirilgan kvarta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "kat.3+kich.3 qanday uchtovushlikni tashkil qiladi?",
+    "options": [
+      "major",
+      "Minor",
+      "Orttirilgan",
+      "Kamaytirilgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dinamikaning asosiy turlari?",
+    "options": [
+      "F, ff, p, pp, mp, mf",
+      "Diez, bekar, bemol",
+      "Vokaliz",
+      "Solfedjirovanie"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Grave nima?",
+    "options": [
+      "Eng sekin temp",
+      "Fortepiano chaluvchi va uni o’ziga kasb qilgan odam",
+      "Musiqa asarini juda sekin ijro etilishi",
+      "Musiqaning drama asari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Legato?",
+    "options": [
+      "Ulab kuylash",
+      "G’amgin kuylash",
+      "Cho’zib kuylash",
+      "Ravon kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Presto nima?",
+    "options": [
+      "Eng tez temp",
+      "Fortepiano chaluvchi va uni o’ziga kasb qilgan odam",
+      "Musiqa asarini juda sekin ijro etilishi",
+      "Sokin temp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Glissando….?",
+    "options": [
+      "Tovushning bir – biriga sirpanib ulanishi",
+      "Tovush kuchaytirilishi",
+      "Tovush pasayishi",
+      "Tempo – ritmning o’zgarishi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alteratsiya belgisi nima?",
+    "options": [
+      "tovush balandligini o’zgartiruvchi",
+      "asar tonalligini o’zgartiruvchi",
+      "asar tezligini o’zgartiruvchi",
+      "asar xarakterini o’zgartiruvchi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko’p ovozli musiqa turi nima deb nomlanadi?",
+    "options": [
+      "Polifoniya",
+      "Sonata",
+      "Syuita",
+      "Etyud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Turli balandlikdagi uch va undan ortiq tovushlarning qo’shilib, yaxlit holda yangrashi nima deb nomlanadi?",
+    "options": [
+      "Akkord",
+      "Oktava",
+      "Prima",
+      "Akkordeon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uch notadan tuzilgan maxsus ritmik shakl qanday nomlanadi?",
+    "options": [
+      "Triol",
+      "Duol",
+      "Trio",
+      "Trel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Stakkato….?",
+    "options": [
+      "Yengil, uzib ijro etish",
+      "Tez kuylash",
+      "Erkin kuylash",
+      "Sekin kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dissonans?",
+    "options": [
+      "Bir – biriga mos kelmaydigan tovushlar",
+      "Uyg’unlik",
+      "Tinchlik",
+      "Ifodalilik vositasi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqada zarbli nuqta qanday ijro etiladi?",
+    "options": [
+      "Birinchi hissadagi ijro nuqtasi",
+      "Zarbli nuqtadan keyingi ijro nuqtasi",
+      "Oxirgi hissasiga",
+      "O’rtadagi hissasiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqada zarbsiz nuqta qanday ijro etiladi?",
+    "options": [
+      "Zarbli nuqtadan keyingi ijro nuqtasi",
+      "Birinchi hissadagi ijro nuqtasi",
+      "Oxirgi hissasiga",
+      "O’rtadagi hissasiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqada Coda termini nima ma’noni anglatadi?",
+    "options": [
+      "Ayrim musiqa asarlarining oxirida keladigan qo’shimcha qism",
+      "Asarning boshidagi kirish qismi",
+      "Asarning asosiy kuy mavzuning bayoni",
+      "Takrorlash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Allegro?",
+    "options": [
+      "Tez",
+      "Shoshmasdan, tekis",
+      "Juda tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Adajio?",
+    "options": [
+      "Sekin-og’ir temp",
+      "Juda tez",
+      "Sokin",
+      "Juda sekin temp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Largo?",
+    "options": [
+      "Juda sekin temp",
+      "Sekin-og’ir temp",
+      "Juda tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Andante?",
+    "options": [
+      "Shoshmasdan, tekis",
+      "Juda tez",
+      "Sokin",
+      "Tez"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Presto?",
+    "options": [
+      "Juda tez",
+      "Shoshmasdan, tekis",
+      "Tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Oddiy o’lchovli dirijorlik sxemasi qaysi?",
+    "options": [
+      "2/4",
+      "Shoshmasdan, tekis",
+      "Tez",
+      "Sokin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kanon?",
+    "options": [
+      "Bir kuy bir necha ovozda oldinma-ketin qaytariladigan ko’p ovozli musiqa",
+      "Unison kuylash",
+      "Duet bo’lib kuylash",
+      "Solist ijrosi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Moderato?",
+    "options": [
+      "O’rtacha tez",
+      "Sekin",
+      "Mayin",
+      "Shoshmasdan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Septakkord nechta tovushdan iborat?",
+    "options": [
+      "4 ta",
+      "2 ta",
+      "1 ta",
+      "3 ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tembr deb ?",
+    "options": [
+      "tovushning sifat xususiyati, uning rang-barangligiga aytiladi",
+      "tovushning balandligiga aytiladi",
+      "tovushning kattaligiga aytiladi",
+      "tovushning pastligiga aytiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tovush ma’nolari qaysi bandda to’g’ri berilgan?",
+    "options": [
+      "birinchisi – fizik holatdagi tovush, ikkinchisi – sezgi orqali idrok etiladigan\n tovushdir",
+      "fizik holatdagi tovush",
+      "sezgi orqali idrok etiladigan tovush",
+      "musiqiy tovush"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera qachon va qayerda paydo bo’lgan?",
+    "options": [
+      "16 asr, Italiya",
+      "19 asr, Frantsiya",
+      "15 asr, Germaniya",
+      "15 asr, AQSH"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Rubob torlarida mediatorning pastga hamda yuqoriga juda tez va tekis almashib chalish usulini nima deymiz?",
+    "options": [
+      "Teskari zarb",
+      "Piano",
+      "Forte",
+      "Tremolo (rez)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "O`zbekiston bastakorlaridan T.Jalilov, Yu.Rajabiylarning qanday asarlarini bilasiz?",
+    "options": [
+      "Jonon",
+      "Otmagay tong",
+      "Kulcha non",
+      "Raqqosasidan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Toshkent Davlat konservatoriyasining professor A.I.Petrosyan asarlari haqida nimalarni bilasiz?",
+    "options": [
+      "So`zsiz qo`shiq",
+      "Plyasovaya",
+      "Intizor",
+      "Noz etma"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kompozitor T.Jalilov qanday spektakllarga musiqa yaratgan?",
+    "options": [
+      "Toxir va Zuhra",
+      "Super qaynona",
+      "Toshbolta ochiq",
+      "Layli va Majnun"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "D.Zokirov haqida bilganlaringizni so`zlab bering?",
+    "options": [
+      "Dirijyor",
+      "Opera honandasi",
+      "Baletmeyster",
+      "Bastakor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Siz qanday intervallarni bilasiz?",
+    "options": [
+      "Sof  kvarta",
+      "Kichik septima",
+      "Sof kvinta",
+      "8 ta interval"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ansambl so`zi qaysi tildan olingan?",
+    "options": [
+      "Frantsiya",
+      "Italiya",
+      "Lotincha",
+      "Ruscha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ansambl so`zining mazmuni qanday ma’noni bildiradi?",
+    "options": [
+      "Har xil",
+      "Ko`pchilik bo`lib",
+      "Birgalikda",
+      "Cholg`uchilar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Orkestrni ham ansambl deyish mumkinmi?",
+    "options": [
+      "Yo`q",
+      "Ha",
+      "Ba’zilarini",
+      "2-3 jadval to‘g‘ri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ansamblni kim boshqaradi?",
+    "options": [
+      "Musiqa rahbari",
+      "Kontsertmeyster",
+      "Badiiy rahbar",
+      "Dirijyor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ansamblda chalish o‘quvchilarda qanday ko‘nikmalarni shakllantiradi?",
+    "options": [
+      "Ovoz bilan kuylash",
+      "Cholg’uda chalish, ijro etish",
+      "Eshitish qobiliyatini rivojlantirish",
+      "Ritmni his qilish, eshitish hamnafaslik, jo‘rnavozlik qilish"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ansambldan dars beradigan o‘qituvchi qanday bo‘lishi kerak?",
+    "options": [
+      "Psixologiyani yaxshi bilishi kerak",
+      "Biron – bir chet tilini bilishi kerak",
+      "Cholg‘ulardan birida chalishni bilishi kerak",
+      "Ijrochilik sirlaridan yaxshi xabardor bo‘lishi, cholg‘ularning xususiyatlarini bilishi kerak."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "O‘quvchilar ansamblda chalish uchun qanday bilimga ega bo‘lishadi?",
+    "options": [
+      "Musiqa tarixini yaxshi bilishlari kerak",
+      "Solfedjio fanidan ma’lumotga ega bo‘lishi kerak",
+      "Biron – bir cholg‘uda chalish ko‘nikmalarini egallagan bo‘lishi kerak",
+      "Ashula aytishni bilishi kerak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ansamblda cholg‘ular qanday sozlanishi kerak?",
+    "options": [
+      "Rubob cholg‘usi",
+      "Fortepianoga",
+      "Chang nay kabi puflama cholg‘ulariga",
+      "Javob 2-3-4-javoblar to‘g‘ri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ansamblning turlari qaysi variantda to‘g‘ri ko‘rsatilgan?",
+    "options": [
+      "Xalq cholg‘ulari ansambli",
+      "Faqat bir turdagi cholg‘ular ansambli",
+      "Javob 1-2-4-javoblar to‘g‘ri",
+      "Duet, trio, kvartet, kvintet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yu.Rajabiy nomidagi ansambl qanday ansambl deyiladi?",
+    "options": [
+      "Ashula va raqs ansambli",
+      "Folklor ansambli",
+      "Maqomchilar ansambli",
+      "Qo‘shiq va musiqa ansambli"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A.N.Farobiy musiqa nazariyasini qanday risolasida asoslab bergan?",
+    "options": [
+      "“Kitabul musiqiy al-al kabir?”",
+      "“Ilmiy musiqiy”",
+      "“Kitabun najad”",
+      "“Donishnoma”"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "O‘zbek xalq cholg‘ularining sozlanishiga ob – havoning ta’sir qilishiga nima sabab bo‘ladi?",
+    "options": [
+      "Cholg‘ularning asosan torli – muzrobli bo‘lganligi.",
+      "Asosiy cholg‘ular dastasi uzunligi",
+      "Cholg‘ularning ko‘pchiligi kosasi teri parda bilan qoplanganligi",
+      "1-3- javoblar to‘g ‘ri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sozandalar ansambl ijrochiligida asosan nimaga e’tibor berishlari kerak?",
+    "options": [
+      "Nota matniga",
+      "O‘qituvchining ko‘rsatmalariga",
+      "Doirachining harakatlariga",
+      "Bir nafasda chalishga, hamnafaslikka"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Oʻzbek xalq cholg‘ulari ansambli tarkibida qaysi cholg‘ular oʻtirib chalinadi:",
+    "options": [
+      "Chang, g‘ijjak, dutor, ud",
+      "Rubob, chang, ud",
+      "Qoʻshnay, nay, g‘ijjak, afg‘on rubobi",
+      "Doira, g‘ijjak, dutor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cholg‘uchilar ansamblida chalish mutaxassislik darslaridan farqli sozandlardan qanday ko‘nikmalarni shakllantiradi?",
+    "options": [
+      "Ijro texnikasini oshiradi",
+      "Ijrochilik sirlarini oshiradi",
+      "Boshqa cholg‘ular ijro imkoniyatlari bilan tanishish, eshita bilish, o‘z\ncholg‘usi tovushini boshqara olish",
+      "Boshqa sozandalarni hurmat qilish"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "“Duet ijrochiligi qanday ansambl”?",
+    "options": [
+      "Doira va biron bir soz jo’rligi",
+      "Rubob va fortepiano jo’rligi",
+      "Ikki va har – hil sozlardgi ijrochilik",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kamer orkestri boshqa turdagi orkestrlardan nima bilan farq qiladi?",
+    "options": [
+      "Cholg‘ular bilan",
+      "Cholg‘u tarkibi bilan",
+      "Cholg‘ular miqdori bilan",
+      "Ijrosi bilan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Orkestrlarning qanday turlari mavjud?",
+    "options": [
+      "Kamer orkestri va damli cholg‘ular orkestri",
+      "Simfonik orkestri va puflama cholg‘ular orkestri",
+      "1-2-4-javoblar to‘g‘ri",
+      "Xalq cholg‘ulari orkestri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O‘zbekiston teleradiokompaniyasi qoshidagi maqomchilar ansambli qaysi san’atkor nomi bilan yuritiladi?",
+    "options": [
+      "Mannon Uyg‘ur",
+      "Muxtor Ashrafiy",
+      "Yunus Rajabiy",
+      "To‘xtasin Jalilov"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "O‘zbekiston teleradiokompaniyasi qoshida dutorchilar ansambliga qaysi taniqli sozanda, bastakor tuzgan?",
+    "options": [
+      "Tavakkal Qodirov",
+      "Zamira Suyunova",
+      "Fattoxon Mamadaliyev",
+      "G‘anijon Toshmatov"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "O‘zbek musiqasini rivojlantirishda, hususan ansambl ijrochiligini rivojlantirishda salmoqli hissa qo‘shgan, XX asr ijod qilgan sozanda nomini ko‘rsating?",
+    "options": [
+      "Shuxrat Yo‘ldoshev",
+      "Faxriddin Sodiqov",
+      "Doniyor Zokirov",
+      "Jo‘raxon Sultonov"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Havaskorlik to‘garaklarida, madaniyat uylarida barcha sozlarni chaluvchi sozandalar mavjud bo‘lgan sharoitda qanday ansambl turlarini tuzish mumkin?",
+    "options": [
+      "Qo‘shiq va raqs ansambli",
+      "Folklor etnografik ansambli",
+      "Dutorchilar, rubobchilar, doirachilar ansambli",
+      "1-2-javoblat to‘g‘ri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ansamblning biron bir yakka sozanda yosh xonanda jo‘rligidagi ijrosi qanday ataladi?",
+    "options": [
+      "Professional ijrochilik",
+      "Garmonik ijro",
+      "Jo‘rnavozlik",
+      "Hamnafaslik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ansambl rahbari yoki o‘qituvchi, o‘quvchi sozandalarga biron bir kuyni o‘rgatishda qanday omillarga e’tibor berish kerak?",
+    "options": [
+      "O‘quvchilarning ko‘nikmalarini o‘zlashtirish darajasiga",
+      "Ijro texnikasini, ijro madaniyatini rivojlantirishga",
+      "Asar haqida, muallif haqida, asarning hususiyatlari haqidagi ma’lumotlarni yetkazish bilan birga o‘zi ijro etib berish",
+      "O‘quvchilar davomatiga"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Xalq cholg‘ulari ansambllari va rubobchilar ansamblidan dutorchilar ansamblining farqi nimada?",
+    "options": [
+      "Imkoniyatlarining kengligida",
+      "Sozanda ijrochilarning",
+      "Cholg‘ularning bir xilligida",
+      "Faqat dutorgagina xos bo‘lgan ijro shtrixlari, jozibani ko‘rsatish imkoniyatida"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yu.Rajabiy nomli maqomchilar ansamblining hozirgi badiiy rahbari kim?",
+    "options": [
+      "Tuyg‘un Otaboyev",
+      "Mustafo Bafoyev",
+      "Abduxoshim Ismoilov",
+      "Abduraxmon Xoltojiyev"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Taniqli rubobchi, bastakor, cholg‘u ijrochiligi rivojlanishida salmoqli hissa qo‘shgan san’atkor nomini ko‘rsating?",
+    "options": [
+      "Tohir Rajabi",
+      "Zamira Raxmatullayeva",
+      "Shavkat Mirzayev",
+      "Rifatulla Qosimov"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "XX asrning 2 – yarmida dunyoga dong‘i ketgan ashula va raqs ansamblini ko‘rsating?",
+    "options": [
+      "“Shodlik” ashula va raqs ansambli",
+      "“Zarafshon” ashula va raqs ansambli",
+      "“Bahor” Ashula va raqs ansambli",
+      "“Lazgi” ashula va raqs ansambli"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "O‘tgan asr 2 – yarmida ansambl ijrochiligi uchun ko‘plab asarlar yaratgan bastakor kim?",
+    "options": [
+      "Bahtiyor Aliyev",
+      "Anor Nazarov",
+      "Muxtorjon Murtazoyev",
+      "Farxod Alimov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Folklor – etnografik ansambli boshqa ansambllar ijrochiligidan nima bilan farq qiladi?",
+    "options": [
+      "Xalq og‘zaki ijodiga mansub asarlarni ijro etish bilan",
+      "Shashmaqom va maqom yo‘lidagi asarlarni ijro etish bilan",
+      "Bastakor asarlarini ijro etish bilan",
+      "Har – hil raqslari bilan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O‘zbekiston va chet ellardagi eng mashhur folklor ansamblini aniqlang?",
+    "options": [
+      "“Sumalak” ansambli",
+      "“Besh qarsak” ansambli",
+      "“Parvoz” ansambli",
+      "“Boysun” ansambli"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "O‘zbek xalq cholg‘ulari ansambli tarkibida qaysi cholg‘ular o‘tirib chalinadi?",
+    "options": [
+      "Doira, g‘ijjak, dutor",
+      "Rubob, chang, ud",
+      "Qo‘shnay, nay, g‘ijjak, afg‘on rubobi",
+      "Chang, g‘ijjak, dutor, ud"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ansambl sozandalari ijro paytida stulda qanday o‘tirishlari maqsadga muvofiq?",
+    "options": [
+      "Soz chalish uchun qulay holda",
+      "Faqat doirachi tomonga bir oz o‘tirgan holda",
+      "Stulning yarmiga o‘tirib, bir oyoqni oldinroq ikkinchi oyoqni orqaroq qo‘ygan holda",
+      "Sahnada chiroyli bo‘lishi uchun, tinglovchilarga to‘g‘ri qaragan holda"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ansambl cholg‘ularini yaxshi sozlanishi o‘quvchilarga qanday ta’sir qiladi?",
+    "options": [
+      "Ritmni tarbiyalaydi",
+      "Musiqiy tafakkurni rivojlantiradi",
+      "Eshitish qobiliyatini rivojlantiradi",
+      "Hamnafaslik, jo‘rnavozlik yaxshilaydi",
+      "“Dirijyor” so‘zi qanday ma’noni bildiradi?",
+      "musiqa bastalovchi",
+      "cholg‘u asboblari ijrochisi",
+      "xorda kuylovchi",
+      "yo‘lga solish, boshqarish"
+    ],
+    "answer": 8
+  },
+  {
+    "q": "Dastlabki g‘ijjaklarda nechta tor bo‘lgan?",
+    "options": [
+      "2 ta",
+      "3 ta",
+      "4 ta",
+      "6 ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Avj” qanday ma’noni bildiradi?",
+    "options": [
+      "Musiqa asarining eng yuqori cho‘qqisi, pardasi",
+      "O‘rta asr ―O‘n ikki maqom‖ tizimidagi ma‘lum sho‘ba nomi",
+      "Cholg‘u asbobining tovush kengligi",
+      "a va b javoblari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Farobiy qaysi cholg‘u asbobini inson didiga yaqin” deb, ta’riflagan?",
+    "options": [
+      "Tanbur",
+      "Dutor",
+      "Chang",
+      "Ud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Arkato” so‘zining ma’nosi qanday?",
+    "options": [
+      "noxun bilan",
+      "mediator bilan",
+      "kamoncha bilan",
+      "maxsus cho‘pchalar bilan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Darvesh ali Changiy qaysi cholg‘u asbobini “Cholg‘ular shohi” deb, ta’riflagan?",
+    "options": [
+      "Ud",
+      "Tanbur",
+      "Dutor",
+      "Chang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Milliy sozlarida nota asosida o‘qitish dastlab 1936 yilda qaysi bilim yurtida yo‘lga qo‘yilgan?",
+    "options": [
+      "M.Ahrafiy nomidagi Buxoro musiqa bilim yurtida",
+      "Hamza nomidagi Toshkent musiqa bilim yurtida",
+      "Samarqand musiqa bilim yurtida",
+      "Qo‘qon musiqa bilim yurtida"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1923 yilda “Milliy musiqa to‘garagi” ansambli kimning tashabbusi bilan tashkil etilgan?",
+    "options": [
+      "Yu. Rajabiy tashabbusi bilan",
+      "Uspenskiy tashabbusi bilan",
+      "A.I.Petorosyans tashabbusi bilan",
+      "T.Jalilov tashabbusi bilan"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Shorahim Shoumarov nechanchi yilda Toshkentdagi “Namuna” maktabinternati qoshida xalq cholg‘ulari ansamblini tuzgan?",
+    "options": [
+      "1920 yilda",
+      "1921 yil",
+      "1919 yilda",
+      "1922 yil"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sharq musiqashunosligi ilmining asoschisi kim?",
+    "options": [
+      "Darvesh ali Changiy",
+      "Farobiy",
+      "Marog‘iy",
+      "Jomiy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Filarmoniya nima?",
+    "options": [
+      "Yuksak badiiy musiqa asarlari va ijrochilik san’atini targ‘ib etuvchi kontsert tashkiloti",
+      "Garmonika turidagi cholg‘u asboblari",
+      "Amerikada paydo boʻlgan salon raqsi",
+      "Tovush kuchini koʻrsatuvchi asosiy belgi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orkestr so‘zi qanday ma‘noni bildiradi?",
+    "options": [
+      "sahna old maydonchasi",
+      "musiqa asbobida chalib ashula aytish",
+      "birgalikda ijro etish",
+      "to‘g‘ri javob berilmagan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Partitura” nima?",
+    "options": [
+      "ko‘p ovozli musiqa asarining nota yozuvi",
+      "ansambl, xor, orkestr uchun nota yozuvi",
+      "bir cholg‘u asbobi uchun yozilgan nota matni",
+      "a va b javoblari to‘g‘ri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sato cholg‘usi qaysi guruhga kiradi?",
+    "options": [
+      "Torli cholg‘ular",
+      "Damli cholg‘ular",
+      "Zarbli cholg‘ular",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Pitsikato” qanday ijro uslubi?",
+    "options": [
+      "torli-kamonli cholg‘ularda kamonsiz, barmoqlar bilan tirnab chalish uslubi",
+      "noxunli cholg‘u asboblarning chalish uslubi",
+      "doyraning chalish uslubi",
+      "to‘g‘ri javob berilmagan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Shodlik\" ashula va raqs ansambli qachon tashkil etilgan?",
+    "options": [
+      "1958 yilda",
+      "1957 yilda",
+      "1959 yilda",
+      "1960 yilda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Udning dastlabki nomi qanday atalgan?",
+    "options": [
+      "Tanbur",
+      "Barbad",
+      "G‘ijjak",
+      "Dutor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Pult (frans. minbar) qanday moslama?",
+    "options": [
+      "musiqa asbolari qo‘yiladigan maxsus moslama",
+      "nota qo‘yish uchun maxsus moslama",
+      "ortiqcha kitoblarni qo‘yish uchun javon",
+      "ma’ruzachi hujjatalini qo‘yadigan maxsus moslama"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ar-Roziyning musiqaga oid risolasi?",
+    "options": [
+      "San‘at haqida 12 ta risola",
+      "Shifo",
+      "Sharq nota yozuvi",
+      "Ilmlar kaliti"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Repetitsiya qanday ma’noni bildiradi?",
+    "options": [
+      "lot. tilidan olingan qaytariq",
+      "Mashq",
+      "Tayyorgarlik",
+      "barcha javoblar to‘g‘ri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Farobiy yashagan davrda chang asbobida nechta sim bo‘lgan?",
+    "options": [
+      "15 ta",
+      "20 ta",
+      "22 ta",
+      "17 ta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sozanda kim?",
+    "options": [
+      "Musiqachi",
+      "Cholg‘u ijro qiluvchi, cholg‘uchi",
+      "to‘ylarga boradigan honanda",
+      "a va b javoblari to‘g‘ri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Usta Olim Komilov qaysi cholg‟u asbobini mohirona chalgan?",
+    "options": [
+      "Doyra",
+      "Rubob",
+      "Dutor",
+      "Chang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Turli musiqa asarlaridan olingan parchalar asosida tuzilgan pyesa qanday nomlanadi?",
+    "options": [
+      "Raqs",
+      "Ariya",
+      "Popuri",
+      "Polka"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fortepiano cholg‘u asbobi qanday cholg‟ular turiga kiradi?",
+    "options": [
+      "Torli klavishli urma cholg‘u",
+      "Urma torli cholg‘u",
+      "Kamonli cholg‘u",
+      "Urma cholg‘u"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko‘p ovozli musiqa turi nima deb nomlanadi?",
+    "options": [
+      "Polifoniya",
+      "Sonata",
+      "Unison",
+      "Syuita"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Filarmoniya nima?",
+    "options": [
+      "Yuksak badiiy musiqa asarlari va ijrochilik san‘atini targ‘ib etuvchi konsert tashkiloti",
+      "Qadimiy raqs turi",
+      "Cholg‘u asboblar majmuasi",
+      "Teatrshunoslik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Dutor navolari” asari muallifi kim?",
+    "options": [
+      "Sayfi Jalil musiqasi",
+      "Vasilyev musiqasi",
+      "Sh.Nazarov musiqasi",
+      "G‘.Toshmatov, musiqasi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "“Kontsert variatsiyasi” “Kalinka” qaysi xalq musiqasiga mansub?",
+    "options": [
+      "Rus xalq qo‘shig‘i",
+      "Tatar xalq qo‘shig‘i",
+      "Qozoq musiqasi",
+      "Arman musiqasi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Do‘mbra asbobida qanday asarlar ijro etiladi?",
+    "options": [
+      "Katta ashula",
+      "Dostonlar, laparlar",
+      "Nota bilan chalinadigan asarlar",
+      "Maqom kuylari"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Farobiyning musiqaga oid kitobi qaysi javobda to‘g‘ri berilgan?",
+    "options": [
+      "“Davolash kitobi”",
+      "“Katta musiqa kitobi”, “Kitob al-musiqa al-kabir”",
+      "“Bilimlar kaliti”",
+      "“Shifo xazinasi”"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "M.Ashrafiy nechanchi yilda Konservatoriyada rector vazifasini o‘tagan?",
+    "options": [
+      "1948 yilda",
+      "1949 yilda",
+      "1952 yilda",
+      "1947 yilda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "R.Glier nomidagi respublika o‘rta maxsus musiqa maktabi internati nechanchi yilda ochilgan?",
+    "options": [
+      "1948 yilda",
+      "1949 yilda",
+      "1951 yilda",
+      "1953 yilda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ijrochilik mahoratini oshirish uchun ma’lum bir usuldan murakkab qilib yaratilgan musiqa asari qaysi?",
+    "options": [
+      "Sonata",
+      "Etyud",
+      "Yumoreska",
+      "Fuga"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Opera, balet, oratoriya, drama, kinofilmning boshlanishi oldidan ijro etiluvchi cholg‘u pyesasi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "options": [
+      "Libretto",
+      "Polifoniya",
+      "Uvertyura",
+      "Ariya"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Havo yordamida chalinadigan klavishli lirik cholg‘u asbobi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "options": [
+      "Gaboy",
+      "Litavra",
+      "Organ",
+      "Fleyta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ko‘p ovozli musiqa turi nima deb nomlanadi?",
+    "options": [
+      "Sonata",
+      "Syuita",
+      "Etyud",
+      "Polifoniya"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Polonez qaysi kompozitor ijodida yanada rivojlandi?",
+    "options": [
+      "M.Glinka",
+      "F.Shopen",
+      "F.List",
+      "A.Onegger"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Polonez nima?",
+    "options": [
+      "Ko‘p ovozli musiqa",
+      "Cholg‘u asbobi",
+      "Chex xalqining qadimiy raqsi",
+      "Qadimiy polyak raqsi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Fortepiano qayerda, kim tomonidan yasalgan?",
+    "options": [
+      "Italiyada, Bortolomeo Kristofori tomonidan",
+      "Frantsiyada, Klod Debyussi tomonidan",
+      "Angliyada, D.Verdi tomonidan",
+      "Italiyada, D.Verdi tomonidan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Risolai musiqiy” assarining muallifi kim?",
+    "options": [
+      "Darvishali Changiy",
+      "Farobiy",
+      "Ibn Sino",
+      "Jomiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Shorahim Shoumarov nechanchi yilda Toshkentdagi “Namuna” maktab – internati qoshida xalq cholg‘ulari ansamblini tuzgan?",
+    "options": [
+      "1919 yilda",
+      "1920 yilda",
+      "1921 yilda",
+      "1922 yilda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sharq musiqashunosligi ilmining asoschisi kim?",
+    "options": [
+      "Farobiy",
+      "Darvesh ali Changi",
+      "Marog‘iy",
+      "Jomiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Kitob al – musiqa al - kabir” kimni asari?",
+    "options": [
+      "Farobiy",
+      "Jomiy",
+      "Ibn Sino",
+      "Urmaviy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dutor prima cholg‘usining torlari qaysi interval oralig‘ida sozlanadi?",
+    "options": [
+      "Unison",
+      "Tertsiya",
+      "Sof kvarta",
+      "Oktava"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Norim – norim so‘zining ma’nosi qanday?",
+    "options": [
+      "Anor terimi marosimi qo‘shig‘i",
+      "Kelin kelganda aytiladigan qo‘shiq",
+      "Yomg‘ir qo‘shig‘i",
+      "Quyosh chiqqanda chalinadigan kuy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Maslas so‘zining lug‘aviy ma’nosi nima?",
+    "options": [
+      "Ud sozining ikkinchi tori nomi",
+      "Eng yuqori",
+      "Juda kuchli",
+      "O‘ta kuchsiz"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Serenada” qanday asar?",
+    "options": [
+      "muhabbatga yo hurmatga loyiq bo‘lgan kishining uyo oldida ijro etiladigan musiqa asari",
+      "lapar janridagi asar",
+      "simfonik asar",
+      "opera asari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lyutnya qanday cholg‘u asbobi?",
+    "options": [
+      "Sharq xalqlarining qadimiy tirnama Ud cholg‘u asbobi",
+      "Dutorning bir turi",
+      "Rubobning bir turi",
+      "Changning bir turi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Milliylik ohangi bilan sug‘orilgan o‘zbek operasi qaysi?",
+    "options": [
+      "Maysaraning ishi",
+      "Layli va Majnun",
+      "Zulmatdan ziyo",
+      "Dilorom"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nota yozuvlari qanday yozuv?",
+    "options": [
+      "Butun dunyoda bir xil yozuv",
+      "Rus yozuvi",
+      "Eski yozuv",
+      "Arabcha yozuv"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir nuqta nota cho‘zimini qancha miqdorda uzaytiradi?",
+    "options": [
+      "Uch miqdorda",
+      "Yarim miqdorda",
+      "to‘rt miqdorda",
+      "ikki miqdora"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Uvertyura so‘zining lug‘aviy ma’nosi?",
+    "options": [
+      "muqaddima, kirish degani",
+      "tamom degani",
+      "musobaqa degani",
+      "asosiy qism degani"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Qaysi qatorda tovushlarning harfiy sistemasi bo‘yicha yozilishi to‘g‘ri ko’rsatilgan?",
+    "options": [
+      "C,D,E,F,G,A,H",
+      "C,D,F,A,H,E,B",
+      "A,H,D,C,G,A,H",
+      "C,D,E,G,F,H,A"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Buxoro an’anaviy cholg‘u ansamblini tashkil etuvchi guruhni  ko‘rsating?",
+    "options": [
+      "g’ijjak,  rubob, qo‘shnay",
+      "tanbur,  dutor, bo‘lamon",
+      "g’ijjak,  doira, dutor",
+      "tanbur, nay, doyra"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Farg‘ona-Toshkent musiqa an’anasini tashkil qiluvchi ansamblni  asosan  qaysi  cholg‘ular  tashkil  etadi ko‘rsating?",
+    "options": [
+      "Dutor, doyra",
+      "G’ijjak, tanbur",
+      "Tanbur, dutor",
+      "Rubob, nay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Xorazm musiqa  an’anasini  tashkil  qiluvchi  ansamblni  asosan qaysi  cholg’ular  tashkil  etadi?",
+    "options": [
+      "Dutor, bo‘lamon, g‘ijjak, doira",
+      "Doira, tanbur,sato,qashqar rubobi",
+      "Doira, nay, safoil, chang",
+      "Qashqar rubobi, nay, surnay, chang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Olti  maqomdan iborat Shashmaqom qaysi  yillarda va  kim  tomonidan  qaytadan  yozib  olindi va   nashr ettirildi?",
+    "options": [
+      "1945-1955 yillari Matniyoz Yusupov tomonidan",
+      "1960-1970 yillari M. Ashrafiy tomonidan",
+      "1966-1975 yillari Yunus Rajabiy tomonidan",
+      "1950-1980 yillari F.Karomatov tomonidan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Damli cholg‘ular guruhiga kiruvchi naypachoqli puflama  cholg’ular  gurihini ko’rsating?",
+    "options": [
+      "sibiziq, karnay, surnay, nay",
+      "surnay, cho‘pon  nay, nay, changqobuz",
+      "changqobuz,  cho‘pon  nay, qo‘shnay, karnay",
+      "qo‘shnay, bo‘lamon, sibizg‘a, surnay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Damli cholg‘ular guruhiga kiruvchi mushtukli-puflamali cholg‘ular guruhini  ko’rsating?",
+    "options": [
+      "bo‘lamon",
+      "cho‘pon  nay",
+      "changqobuz",
+      "karnay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Zarbli  cholg‘ular  guruhiga kiruvchi  teri  qoplamali  cholg‘ular guruhini  ko‘rsating?",
+    "options": [
+      "qoshiq, nog‘ora",
+      "nog‘ora, safoil",
+      "safoil, doira",
+      "doira, nog‘ora"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Asosan to‘y marosimlarda ijro etiladigan  cholg‘u  kuylari guruhini ko‘rsating?",
+    "options": [
+      "charx, dorbozi, duchava, sadr",
+      "navo, gul o’yin  duchavasi, shodiyona, charx",
+      "sadr, begi sulton, navo charxi",
+      "begi sulton,  shodiyona, duchava, charx"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Xorazm  maqomi  nima deb  yuritiladi?",
+    "options": [
+      "O‘n ikki maqom",
+      "Olti maqom",
+      "“Shashmaqom”",
+      "Oltiyarim maqom"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Qaysi qatorda  mumtoz  kuy ko‘rsatilgan?",
+    "options": [
+      "“Cho‘li iroq”",
+      "“Feruz”",
+      "“Dorbozi”",
+      "“Duchava”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Shashmaqom” asosan  qaysi  cholg‘u asbobida  ijro  etilgan?",
+    "options": [
+      "Tanbur",
+      "Dutor",
+      "Sato",
+      "Ud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’zbekistonda nechta mahalliy – musiqiy uslub mavjud?",
+    "options": [
+      "2 ta",
+      "3 ta",
+      "4 ta",
+      "5 ta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Xorazam mahalliy – musiqiy uslubiga xos janrni toping?",
+    "options": [
+      "Katta ashula",
+      "Doston",
+      "Mavrigi",
+      "Suvora"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’zbekistonda maqomotning nechta turi joriy etilgan?",
+    "options": [
+      "2 ta",
+      "3 ta",
+      "4 ta",
+      "5 ta"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Maqom atamasining musiqiy ma’nosi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "options": [
+      "Jam",
+      "Lahn",
+      "Jins",
+      "Parda"
+    ],
+    "answer": 3
+  }
+]
